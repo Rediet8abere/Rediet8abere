@@ -6,7 +6,7 @@
 𝗜'𝗺 [Redi](https://github.com/yaronzz)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 reading 𝗮𝗻𝗱 creativity.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rediet.gesesse@students.dominican.edu)](mailto:rediet.gesesse@students.dominican.edu)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rediet8abere)](https://space.bilibili.com/7708412)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rediet8abere)](https://github.com/Rediet8abere)
 ## 🧐 About
 - 👨‍💻 My blog: https://medium.com/@rediet.abere
 - 📫 How to reach me: rediet.gesesse@students.dominican.edu
